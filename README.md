@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/91087103/232884007-943ef248-c333-4ec0-bf66-d6ee994aacd0.png" alt="Logo" width="80" height="80">
   </a>    
 
-  <h3 align="center">food-delivery-price-compare</h3>
+  <h3 align="center">food-delivery-price-compare</h3> 
 
   <p align="center">
     A react based website to compare food prices accross three delivery platforms swiggy,zomato and eatsure.
